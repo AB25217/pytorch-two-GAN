@@ -1,0 +1,17 @@
+﻿# NOTICE
+
+This is a fork of https://github.com/lood339/pytorch-two-GAN
+
+Original paper:
+  Chen, J. & Little, J.J. (2019)
+  "Sports Camera Calibration via Synthetic Data"
+  CVPR Workshops
+  arXiv:1810.10658
+
+This fork exists to preserve the upstream repository at a fixed commit
+for reproducibility of the FYP project.
+
+No modifications have been made to the upstream code. The fork is used
+for inference only (loading pretrained weights via models/networks.define_G).
+
+Original license (see LICENSE) applies unchanged.
